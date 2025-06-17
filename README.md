@@ -1,20 +1,21 @@
 # Hi there! 👋 I'm Ankit Kumar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Frontend+Developer;Learning+DSA+with+C%2B%2B;HTML+CSS+JavaScript+Expert;Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate software developer who loves creating innovative solutions and learning new technologies. I enjoy working on both frontend and backend development, always striving to write clean, efficient code.
+I'm a passionate **Frontend Developer** who loves creating innovative solutions and learning new technologies. I specialize in building beautiful, responsive web interfaces and have a strong foundation in core web technologies. Currently expanding my skills in Data Structures and Algorithms to become a well-rounded developer.
 
-- 🔭 I'm currently working on exciting projects that challenge my skills
-- 🌱 I'm constantly learning and exploring new technologies
+- 🔭 I'm currently working on frontend projects and practicing DSA problems
+- 🌱 I'm currently learning **Data Structures and Algorithms** using **C++**
+- 💻 I have strong skills in **HTML, CSS, and JavaScript** for frontend development
 - 👯 I'm looking to collaborate on open source projects
 - 🤔 I'm always open to discussing new ideas and opportunities
-- 💬 Ask me about web development, programming, or technology in general
+- 💬 Ask me about frontend development, HTML/CSS, JavaScript, or DSA concepts
 - 📫 How to reach me: **ankitkumar7217734@gmail.com**
-- ⚡ Fun fact: I love solving complex problems and turning ideas into reality
+- ⚡ Fun fact: I love solving DSA problems and creating beautiful user interfaces
 
 ## 🛠️ Technologies & Tools
 
@@ -83,11 +84,11 @@ I'm a passionate software developer who loves creating innovative solutions and 
 
 ## 🎯 Current Focus
 
-- 🔍 Exploring advanced backend architectures
-- 🌐 Building scalable web applications
-- 🤖 Learning about AI/ML integration
-- 📱 Mobile app development
-- ☁️ Cloud computing and DevOps practices
+- 🧠 **Learning Data Structures and Algorithms** using C++
+- 🎨 Mastering advanced **CSS techniques** and modern frameworks
+- ⚡ Building responsive and interactive **JavaScript applications**
+- 💡 Solving **DSA problems** daily to improve problem-solving skills
+- 🌐 Creating beautiful and functional **user interfaces**
 
 ## 📝 Latest Blog Posts
 
@@ -109,12 +110,12 @@ I'm a passionate software developer who loves creating innovative solutions and 
 ## 💼 Professional Experience
 
 ### 🎓 Skills & Expertise
-- **Full Stack Development**: End-to-end web application development
-- **Database Design**: Efficient database architecture and optimization
-- **API Development**: RESTful and GraphQL API design and implementation
+- **Frontend Development**: HTML5, CSS3, JavaScript, Responsive Design
+- **Data Structures & Algorithms**: Currently learning with C++
+- **Web Technologies**: Modern CSS techniques, DOM manipulation, Event handling
+- **Problem Solving**: Algorithmic thinking and DSA problem solving
 - **Version Control**: Git workflow and collaborative development
-- **Problem Solving**: Algorithmic thinking and code optimization
-- **Team Collaboration**: Agile methodologies and project management
+- **UI/UX Design**: Creating beautiful and user-friendly interfaces
 
 ## 🎨 Fun Projects & Interests
 
