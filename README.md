@@ -89,6 +89,7 @@ I'm a passionate **Frontend Developer** who loves creating innovative solutions 
 - ⚡ Building responsive and interactive **JavaScript applications**
 - 💡 Solving **DSA problems** daily to improve problem-solving skills
 - 🌐 Creating beautiful and functional **user interfaces**
+- 🚀 Contributing to **open source projects** and building portfolio
 
 ## 📝 Latest Blog Posts
 
