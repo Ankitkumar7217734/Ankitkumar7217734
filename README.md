@@ -95,6 +95,7 @@ I'm a passionate **Frontend Developer** who loves creating innovative solutions 
 
 <!-- BLOG-POST-LIST:START -->
 - Coming soon! I'll be sharing my thoughts on technology and development
+- Planning to write about DSA journey with C++
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Connect with Me
