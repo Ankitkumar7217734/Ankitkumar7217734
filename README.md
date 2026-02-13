@@ -60,16 +60,16 @@ I'm a **Machine Learning Engineer** focused on building practical AI solutions w
 
 ## 📊 GitHub Stats
 
+<!-- <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ankitkumar7217734&theme=radical" alt="GitHub Stats" />
+</div> -->
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankitkumar7217734&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Ankitkumar7217734&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitkumar7217734&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitkumar7217734&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ankitkumar7217734&theme=radical" alt="Top Languages" />
 </div>
 
 ## 🤝 Connect with Me
