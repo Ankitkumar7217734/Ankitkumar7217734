@@ -14,7 +14,7 @@ I'm a **Machine Learning Engineer** focused on building practical AI solutions w
 - 📊 Comfortable with end-to-end workflows: data cleaning, feature engineering, model training, and evaluation
 - 💻 Background in web development (used mainly for deploying model demos and dashboards)
 - 🤝 Open to collaborating on ML, DL, and data science projects
-- 📫 Reach me at: **ankitkumar7217734@gmail.com**
+- 📫 Reach me at: **ankit.kumar.in72177@gmail.com**
 
 ## 🛠️ Tech Stack
 
